@@ -1,5 +1,0 @@
-C:\Projects\FlairGadget\FlairGadget\bin\Debug\FlairGadget.dll
-C:\Projects\FlairGadget\FlairGadget\bin\Debug\FlairGadget.pdb
-C:\Projects\FlairGadget\FlairGadget\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\FlairGadget\FlairGadget\obj\Debug\FlairGadget.dll
-C:\Projects\FlairGadget\FlairGadget\obj\Debug\FlairGadget.pdb
