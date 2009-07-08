@@ -1,0 +1,113 @@
+﻿body
+{
+  font-family: Segoe UI;
+  font-size: 9pt;
+  font-style: normal;
+  color: White;
+  height: 130px;
+  width: 130px;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+#background
+{
+  background-image: url('images/Background1.png');
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+#firstpage
+{
+  background-image: url('images/Background1.png');
+  width: 130px;
+  height: 130px;
+}
+#firstlogo
+{
+  background-image: url('images/StackOverflowSmallLogo.png');
+  background-repeat: no-repeat;
+  height: 36px;
+  width: 36px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#firsttext
+{
+  margin-top: 10px;
+}
+a:link
+{
+  color: white;
+  text-decoration: none;
+}
+a:active
+{
+  text-decoration: none;
+}
+a:hover
+{
+  text-decoration: underline;
+}
+a:visited
+{
+  color: White;
+  text-decoration: none;
+}
+#gravatar
+{
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  left: 65px;
+  top: 15px;
+}
+#logo
+{
+  background-image: url('images/StackOverflowSmallLogo.png');
+  background-repeat: no-repeat;
+  height: 36px;
+  width: 36px;
+  position: absolute;
+  left: 18px;
+  top: 18px;
+}
+#displayname
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+}
+#reputation
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3px;
+}
+#badges
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3px;
+}
+.badge1
+{
+  color: #FFCC00;
+}
+.badge2
+{
+  color: #C0C0C0;
+}
+.badge3
+{
+  color: #CC9966;
+}
+.badgecount
+{
+  font-family: Segoe UI;
+  font-size: 9pt;
+  margin-left: 2px;
+  margin-right: 4px;
+}
