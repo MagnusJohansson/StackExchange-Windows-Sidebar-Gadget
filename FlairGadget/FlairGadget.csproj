@@ -44,6 +44,7 @@
     <Content Include="CABARC.EXE" />
     <Content Include="Gadget.xml" />
     <Content Include="images\Background.png" />
+    <Content Include="images\MetaStackOverflowSmallLogo.png" />
     <Content Include="images\ServerFaultSmallLogo.png" />
     <Content Include="images\StackOverflowSmallLogo.png" />
     <Content Include="images\SuperUserSmallLogo.png" />
